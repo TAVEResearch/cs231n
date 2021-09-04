@@ -2,7 +2,7 @@
 
 - 전용찬: https://yongchan.tistory.com
 - 이준용: https://velog.io/@dothe7847
-- 윤재호: https://dkssud8150.github.io/classlog/cs231n.html
+- 윤재호: https://dkssud8150.github.io/classlog/
 
 
 
