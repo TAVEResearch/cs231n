@@ -8,4 +8,4 @@
 
 
 
-<img src = "./imgs/logo_tave_research.png" width="60%"> <img src = "./imgs/logo_tave.png" width="30%">
+[<img src = "./imgs/logo_tave_research.png" width="60%">](https://taveresearch.github.io/) [<img src = "./imgs/logo_tave.png" width="30%">](https://tavewave.github.io/) 
