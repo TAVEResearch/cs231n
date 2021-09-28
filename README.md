@@ -1,6 +1,6 @@
 # deep learning 
 
-[<img src = "./imgs/deeplearning.png" width="40%">](http://cs231n.stanford.edu/2017/syllabus.html)
+[<img src = "./imgs/deeplearning.png" width="40%">]
 
 
 ## CS231N 스터디
