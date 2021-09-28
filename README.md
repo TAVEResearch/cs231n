@@ -21,4 +21,4 @@
 
 
 
-[<img src = "./imgs/logo_tave_research.png" width="50%">](https://taveresearch.github.io/) [img src = "./imgs/logo_tave.png" width="30%">](https://tavewave.github.io/) 
+[<img src = "./imgs/logo_tave_research.png" width="50%">](https://taveresearch.github.io/) [<img src = "./imgs/logo_tave.png" width="30%">](https://tavewave.github.io/) 
