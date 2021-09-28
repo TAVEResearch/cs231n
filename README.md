@@ -1,6 +1,6 @@
 # deep learning 
 
-[<img src = "./imgs/deeplearning.png" width="40%">]
+<img src = "./imgs/deeplearning.png" width="40%">
 
 
 ## CS231N 스터디
