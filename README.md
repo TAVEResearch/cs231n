@@ -12,7 +12,7 @@
 
 * cs231n 2017년 강의계획표 : http://cs231n.stanford.edu/2017/syllabus.html
 
-![Half-width image](https://user-images.githubusercontent.com/33013780/135101440-88925ff1-fd02-400b-9942-26c389692367.png)
+![image](https://user-images.githubusercontent.com/33013780/135102090-9ca442b0-9b98-45a8-8715-c7db493cd017.png)
 
 <br>
 
