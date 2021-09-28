@@ -2,6 +2,7 @@
 
 <img src = "./imgs/deeplearning.png" width="40%">
 
+<br>
 
 ## CS231N 스터디
 
@@ -13,7 +14,7 @@
 
 ![image](https://user-images.githubusercontent.com/33013780/135101440-88925ff1-fd02-400b-9942-26c389692367.png)
 
-
+<br>
 
 ## 현재 진행 사항
 
@@ -21,11 +22,11 @@
 * 16강까지 수강 후 assignment 진행
 
 
+<br>
 
 
 
-
-### 참여인원
+## 참여인원
 
 - 전용찬: https://cyc9805.github.io
 - 이준용: https://velog.io/@dothe7847
