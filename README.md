@@ -24,6 +24,7 @@
 
 <br>
 
+[google colab](https://colab.research.google.com/gist/dkssud8150/21dee62a7a54885e4ba06d39d279d2d3/cs231n-chap8-9.ipynb)
 
 
 ## 참여인원
