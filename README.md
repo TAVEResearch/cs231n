@@ -16,9 +16,14 @@
 
 <br>
 
+* [CS231N 한글판 번역본](https://github.com/visionNoob/CS231N_17_KOR_SUB)
+
+
+<br>
+
 ## 현재 진행 사항
 
-* 총 16강 중 7강 수강
+* 총 16강 중 9강 수강
 * 16강까지 수강 후 assignment 진행
 
 
