@@ -17,7 +17,7 @@
 <br>
 
 * [CS231N 한글판 번역본](https://github.com/visionNoob/CS231N_17_KOR_SUB)
-
+* [assignment 참고 사이트](https://github.com/MahanFathi/CS231/tree/master/assignment1)
 
 <br>
 
